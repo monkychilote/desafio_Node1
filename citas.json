@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "otitis"
+  },
+  {
+    "nombre": "Julieta",
+    "edad": "6 Años",
+    "animal": "perro",
+    "color": "amarillo",
+    "enfermedad": "moquillo"
+  },
+  {
+    "nombre": "Pelusa",
+    "edad": "1 año",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "gripe"
+  },
+  {
+    "nombre": "Tomas",
+    "edad": "3 años",
+    "animal": "conejo",
+    "color": "marron",
+    "enfermedad": "pulgas"
+  },
+  {
+    "nombre": "Luna",
+    "edad": "5 años",
+    "animal": "gato",
+    "color": "negro",
+    "enfermedad": "dermatitis"
+  },
+  {
+    "nombre": "Max",
+    "edad": "4 años",
+    "animal": "perro",
+    "color": "gris",
+    "enfermedad": "displasia"
+  },
+  {
+    "nombre": "Nina",
+    "edad": "1 año",
+    "animal": "hamster",
+    "color": "blanco",
+    "enfermedad": "diarrea"
+  },
+  {
+    "nombre": "Toby",
+    "edad": "7 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "artritis"
+  }
+]
